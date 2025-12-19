@@ -1,7 +1,5 @@
 # Assignment 6: Prompt Engineering for Performance Improvement
 
-**Name:** Livan Hagiosman  
-**Course:** AD331 H11 – Fall 2025  
 **Task Selected:** Structured Data Extraction (from unstructured text reviews into JSON format)  
 **LLM Used:** Hugging Face Transformers (OpenAI API optional)
 
