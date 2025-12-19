@@ -64,5 +64,7 @@
 ```bash
 conda install -c conda-forge transformers
 conda install -c conda-forge torch
+```
 
 *Livan Hagi Osman*
+
